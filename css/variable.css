@@ -1,0 +1,13 @@
+:root {
+    --heading1: 24px;
+    --paragraph1: 18px;
+    --paragraph2: 16px;
+    --paragraph3: 14px;
+    --black: #000;
+    --black20Percent: rgba(0, 0, 0, 0.20);
+    --mainColor1: #1C5550;
+    --mainColor2: #C3B97F;
+    --secondColor: #91B599;
+    --contentBgColor: #DFD9D9;
+    --contentBgColor40Percent: rgba(223, 217, 217, 0.40);
+}
